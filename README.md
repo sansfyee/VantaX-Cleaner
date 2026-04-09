@@ -1,23 +1,43 @@
-VANTAX Cleaning Tool
-A VANTAX Cleaning egy Python-alapú rendszeroptimalizáló alkalmazás, amelyet kifejezetten a Windows 11 felhasználói élményének javítására, a felesleges gyári alkalmazások (bloatware) eltávolítására és a kezdeti szoftvertelepítések automatizálására terveztünk.
+🚀 Vantax v1.2
+A Vantax egy modern, grafikus felületű segédprogram Windows-rendszerek gyors beállításához és optimalizálásához. Egyetlen kattintással telepítheted kedvenc szoftvereidet, eltávolíthatod a kéretlen Windows-összetevőket és letilthatod a telemetriát.
 
- Főbb funkciók
-Bloatware eltávolítás: Törli a felesleges Microsoft alkalmazásokat (Bing News, Időjárás, Zune Video, Cortana, stb.).
+✨ Miért használd a Vantax-ot?
+Gyors szoftvertelepítés: Nem kell böngészni és telepítőket letölteni. A Google Chrome-tól a Steamig mindent egy helyről telepíthetsz.
 
-Edge & OneDrive törlés: Eltávolítja a Microsoft Edge böngészőt és a OneDrive-ot a rendszerből.
+Windows Debloat: Szabadulj meg a zavaró Microsoft Edge-től, a Copilottól és a OneDrive-tól.
 
-Telemetria tiltása: Kikapcsolja az adatgyűjtést és a diagnosztikai szolgáltatásokat a jobb adatvédelem érdekében.
+Adatvédelem: Egy kattintással letilthatod a Windows beépített adatgyűjtését (Telemetria).
 
-Rendszer Tuning:
+Kész profilok: Választhatsz előre összeállított csomagok közül (Gamer, Office, Minimal).
 
-Visszaállítja a klasszikus (Windows 10 stílusú) jobb klikk menüt.
+📥 Letöltés és Használat
+A program használatához NEM szükséges a Python telepítése, ha a kész csomagot használod:
 
-Engedélyezi a részletes (Verbose) bejelentkezési üzeneteket.
+Menj a jobb oldalon található Releases szekcióhoz.
 
-Kikapcsolja a zavaró „Beragadó billentyűk” (Sticky Keys) funkciót.
+Töltsd le a legfrissebb Vantax.exe fájlt.
 
-Automatizált telepítés:
+Kattints rá jobb gombbal, és válaszd a Futtatás rendszergazdaként opciót.
 
-Automatikusan telepíti a Mozilla Firefox böngészőt a Winget segítségével.
+Válogasd össze a programokat, és nyomj a Telepítés indítása gombra!
 
-Modern GUI: Elegáns, sötét tónusú felhasználói felület folyamatjelzővel.
+🛠️ Funkciók részletesen
+📦 Szoftverek (Chocolatey alapú)
+A Vantax a népszerű Chocolatey csomagkezelőt használja a háttérben. Ha nincs a gépeden, a program automatikusan telepíti neked az első indításkor.
+
+Böngészők: Chrome, Firefox, Brave
+
+Eszközök: 7-Zip, VLC, Notepad++, PowerToys
+
+Social: Discord, WhatsApp, Telegram
+
+Gamer: Steam, Spotify, OBS Studio
+
+⚙️ Rendszer finomhangolás
+Edge törlése: Teljesen eltávolítja a Microsoft böngészőjét.
+
+AI/Copilot tiltása: Megszünteti a Windows AI funkcióit.
+
+OneDrive tiltása: Leállítja és letiltja a felhő alapú tárhelyet.
+
+Telemetria: Kikapcsolja a háttérben futó adatjelentéseket.

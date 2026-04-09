@@ -1,4 +1,4 @@
-🚀 Vantax v1.2
+🚀 Vantax v0.2
 A Vantax egy modern, grafikus felületű segédprogram Windows-rendszerek gyors beállításához és optimalizálásához. Egyetlen kattintással telepítheted kedvenc szoftvereidet, eltávolíthatod a kéretlen Windows-összetevőket és letilthatod a telemetriát.
 
 ✨ Miért használd a Vantax-ot?

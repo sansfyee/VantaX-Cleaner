@@ -1,44 +1,24 @@
+Vantax EAv3.0 
 
-🚀 Vantax EAv3.0
-A Vantax egy modern, grafikus felületű segédprogram Windows-rendszerek gyors beállításához és optimalizálásához. Egyetlen kattintással telepítheted kedvenc szoftvereidet, eltávolíthatod a kéretlen Windows-összetevőket és letilthatod a telemetriát.
+A Vantax EAv3.0 egy Python és CustomTkinter alapú, modern grafikus felülettel (GUI) ellátott rendszeroptimalizáló és automatizált szoftvertelepítő alkalmazás Windows rendszerekre. Segítségével egy tiszta Windows-telepítés után pillanatok alatt beállíthatod a rendszert, és egyetlen kattintással letöltheted a legnépszerűbb programokat.
+✨ Főbb funkciók
+📦 Automatikus Szoftvertelepítés (60+ alkalmazás)
 
-✨ Miért használd a Vantax-ot?
-Gyors szoftvertelepítés: Nem kell böngészni és telepítőket letölteni. A Google Chrome-tól a Steamig mindent egy helyről telepíthetsz.
+A szoftverek letöltése és telepítése a háttérben, csendes módban történik a Chocolatey csomagkezelő segítségével. Ha a Chocolatey nincs telepítve a gépeden, az alkalmazás automatikusan feltelepíti azt.
 
-Windows Debloat: Szabadulj meg a zavaró Microsoft Edge-től, a Copilottól és a OneDrive-tól.
+    Kategóriák: Böngészők, Alapvető eszközök, Kommunikáció, Média & Szórakozás, Fejlesztés, Grafika & Design, Irodai szoftverek, Biztonság & Hálózat.
 
-Adatvédelem: Egy kattintással letilthatod a Windows beépített adatgyűjtését (Telemetria).
+    Gyors Preset-ek: Előre összeállított csomagok (pl. Gamer, Dev, Kreatív, Munkás, Minimál) a még gyorsabb kiválasztás érdekében.
 
-Kész profilok: Választhatsz előre összeállított csomagok közül (Gamer, Office, Minimal).
+⚙️ Rendszeroptimalizálás & Privátság
 
-📥 Letöltés és Használat
-A program használatához NEM szükséges a Python telepítése, ha a kész csomagot használod:
+    Szoftverek eltávolítása: Microsoft Edge és Edge WebView teljes körű, drasztikus törlése.
 
-Menj a jobb oldalon található Releases szekcióhoz.
+    Adatvédelem: Windows Copilot, OneDrive és a beépített Telemetria (DiagTrack) letiltása.
 
-Töltsd le a legfrissebb Vantax.exe fájlt.
+    Teljesítmény: Hibernáció kikapcsolása (felszabadítva a hiberfil.sys helyét), SuperFetch (SysMain) letiltása, Gaming Mode és Game DVR optimalizálása.
 
-Kattints rá jobb gombbal, és válaszd a Futtatás rendszergazdaként opciót.
+    Hálózat: DNS gyorsítása a Cloudflare (1.1.1.1 / 1.0.0.1) biztonságos szervereire.
 
-Válogasd össze a programokat, és nyomj a Telepítés indítása gombra!
+    Karbantartás: Ideiglenes fájlok (%TEMP%, C:\Windows\Temp) automatikus ürítése.
 
-🛠️ Funkciók részletesen
-📦 Szoftverek (Chocolatey alapú)
-A Vantax a népszerű Chocolatey csomagkezelőt használja a háttérben. Ha nincs a gépeden, a program automatikusan telepíti neked az első indításkor.
-
-Böngészők: Chrome, Firefox, Brave
-
-Eszközök: 7-Zip, VLC, Notepad++, PowerToys
-
-Social: Discord, WhatsApp, Telegram
-
-Gamer: Steam, Spotify, OBS Studio
-
-⚙️ Rendszer finomhangolás
-Edge törlése: Teljesen eltávolítja a Microsoft böngészőjét.
-
-AI/Copilot tiltása: Megszünteti a Windows AI funkcióit.
-
-OneDrive tiltása: Leállítja és letiltja a felhő alapú tárhelyet.
-
-Telemetria: Kikapcsolja a háttérben futó adatjelentéseket.
